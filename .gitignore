@@ -1,0 +1,16 @@
+#忽略 data/ dataset_train/ train_result/ test_result/ 文件夹下的内容   
+#忽略 .so 文件
+
+data/
+dataset_train/
+train_*/
+test_*/
+*.so
+cache/
+cache_*/
+.vscode/
+*.pyc
+video/
+plot.ipynb
+res_check/
+paper_result/
